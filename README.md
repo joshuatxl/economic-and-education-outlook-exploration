@@ -10,8 +10,8 @@ View the notebook with data analysis and visualisations here: https://github.com
 
 | Source | Content |
 |---|---|
-| [IMF World Economic Outlook, April 2025](https://www.imf.org/en/publications/weo/weo-database/2025/april) | GDP, GDP per capita and population, 1980–2025 |
-| [World Bank Education Statistics](https://databank.worldbank.org/source/education-statistics-%5E-all-indicators) | Tertiary enrolment and graduation ratios |
+| [IMF World Economic Outlook, April 2025](https://www.imf.org/en/publications/weo/weo-database/2025/april) | GDP, GDP per capita, population (1980 to 2025) |
+| [World Bank Education Statistics](https://databank.worldbank.org/source/education-statistics-%5E-all-indicators) | Gross Enrolment Ratio, Gross Graduation Ratio |
 | [QS World University Rankings 2025](https://www.topuniversities.com/world-university-rankings/2025) | University rankings by country |
 
 Data is initially inspected using Python, preprocessind, transformed, and stored in MySQL, and ingested back to Python for analysis and visualisation.  
